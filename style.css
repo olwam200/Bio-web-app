@@ -1,0 +1,34 @@
+body {
+    font-size: 15pt;
+}
+h1{
+color: cornflowerblue;
+}
+#my-heading2{
+  color: green;
+}
+body {
+  text-align: center
+}
+.olwam{
+  color: green;
+}
+body{
+background: #BEEE62;
+}
+.profile{
+  width: 50%;
+  border-radius: 50%;
+}
+a {
+ text-decoration: none;
+ color: white;
+}
+.btn{
+  padding: 20px;
+  display: block;
+  color: black;
+  background: white;
+  margin: 16px;
+  box-shadow: 10px 10px lightblue;
+}
